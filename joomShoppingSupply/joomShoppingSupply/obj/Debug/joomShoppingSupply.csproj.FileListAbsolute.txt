@@ -1,0 +1,14 @@
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\bin\Debug\joomShoppingSupply.exe.config
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.csprojResolveAssemblyReference.cache
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.Form1.resources
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.Properties.Resources.resources
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.csproj.GenerateResource.Cache
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\bin\Debug\joomShoppingSupply.exe
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\bin\Debug\joomShoppingSupply.pdb
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.exe
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.pdb
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.csproj.ResolveComReference.cache
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.StatForm.resources
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.StatFormClickID.resources
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.getClickID.resources
+C:\ProjectVS\joomShoppingSupply\joomShoppingSupply\obj\Debug\joomShoppingSupply.Registration.resources
